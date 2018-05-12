@@ -1,0 +1,29 @@
+_repo: Random-Rhymes-and-Rambles_39198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bill o'th' Hoylus End
+    aliases:
+    - Wright, William
+    - End, Bill o'th' Hoylus
+    birthdate: 1836
+    deathdate: 1897
+    gutenberg_agent_id: '32913'
+    url: http://www.gutenberg.org/2009/agents/32913
+description: ''
+gutenberg_issued: '2012-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+title: Random Rhymes and Rambles
+url: http://www.gutenberg.org/ebooks/39198
